@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# Script that tests if ./hello.sh outputs "Hello"
 
 out=$(bash ./test-sum.sh)
 
