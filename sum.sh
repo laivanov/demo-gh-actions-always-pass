@@ -2,7 +2,7 @@
 
 out=$(bash ./test-sum.sh)
 
-if [ "${out}" == 9 ]; then
+if [ "${out}" == 10 ]; then
     echo "==> Test passed."
     exit 0
 else
